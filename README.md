@@ -12,6 +12,7 @@ Write down the code below.
 ```bash
   npm run dev
 ```
+Migrate the tables:
 ```bash
   php artisan migrate
 ```
