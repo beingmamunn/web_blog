@@ -1,6 +1,23 @@
-WEB_BLOG
+# WEB_BLOG
 Web blog is a web applicaton where user can register/login and also admin login option is included.
 
-
-https://user-images.githubusercontent.com/49754732/209478672-58ee5e67-069d-4570-a042-9b56b4acb9da.mp4
-
+How to run the project:
+Write down the code below.
+```bash
+  composer install
+```
+```bash
+  npm install
+```
+```bash
+  npm run dev
+```
+```bash
+  php artisan migrate
+```
+```bash
+  php artisan db:seed
+```
+```bash
+  php artisan serve
+```
