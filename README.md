@@ -1,6 +1,9 @@
 # WEB_BLOG
 Web blog is a web applicaton where user can register/login and also admin login option is included. Here used CRUD operations. Can upload an image for a post.
 
+Here the video presentation of this project:
+
+https://drive.google.com/file/d/17VwIV8TPiTX55KjMN593Q4l5Yl8v5wI8/view?usp=sharing
 
 How to run the project:
 
